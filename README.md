@@ -21,7 +21,7 @@ Estudo e pratico principalmente **Java (programação orientada a objetos)**, **
 
 ## Tecnologias
 
-- **Linguagens:** Java, PHP , JavaScript
+- **Linguagens:** Java, PHP , C e JavaScript
 - **Front-end:** HTML, CSS
 - **Banco de dados e back-end:** Supabase (PostgreSQL)
 - **Ferramentas:** Git, GitHub
